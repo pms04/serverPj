@@ -14,7 +14,7 @@
     String clientId = ""; 
     String clientSecret = "";
     
-    // DB 설정 (test_a / table_a / rootroot 적용)
+    // DB 설정 
     String dbUrl = "";
     String dbUser = "";
     String dbPass = ""; 
