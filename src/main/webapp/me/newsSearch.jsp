@@ -11,13 +11,13 @@
 
 <%!
     // 1. 네이버 API 및 DB 설정
-    String clientId = "4dP6EbZsrEqoW0g4Ku1n"; 
-    String clientSecret = "g57vu81ibQ";
+    String clientId = ""; 
+    String clientSecret = "";
     
     // DB 설정 (test_a / table_a / rootroot 적용)
-    String dbUrl = "jdbc:mysql://localhost:3306/test_a?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8";
-    String dbUser = "root";
-    String dbPass = "rootroot"; 
+    String dbUrl = "";
+    String dbUser = "";
+    String dbPass = ""; 
     
     // 4. [페이징 상수]
     final int DISPLAY_COUNT = 10; // 페이지당 보여줄 항목 수
